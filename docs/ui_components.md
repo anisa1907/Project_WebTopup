@@ -1,31 +1,53 @@
-
 # UI Components - Web TopUp Game
 
 ## Landing Page
-Komponen:
+
+Komponen yang digunakan:
 - Navbar
-- Banner / Hero Section
+- Logo Website
+- Menu Navigasi
+- Tombol Login
+- Hero Banner
+- Tombol "Top Up Sekarang"
 - Daftar Game
-- Tombol Top Up
+- Card Game
 - Footer
 
+---
+
 ## Login Page
-Komponen:
+
+Komponen yang digunakan:
+- Logo Website
 - Form Login
 - Input Email
 - Input Password
+- Checkbox "Ingat Saya"
 - Tombol Login
-- Link Register
+- Link Lupa Password
+- Link Daftar Akun
+
+---
 
 ## Dashboard Page
-Komponen:
-- Sidebar Menu
-- Profile User
-- Riwayat Transaksi
-- Statistik Top Up
-- Logout Button
 
-## Style UI
-- Tema warna dark gaming
-- Responsive layout
-- Font modern
+Komponen yang digunakan:
+- Sidebar
+- Topbar
+- Informasi Profil
+- Saldo User
+- Tombol Top Up
+- Statistik Transaksi
+- Riwayat Transaksi
+- Banner Promo
+- Tombol Logout
+
+---
+
+## Desain UI
+
+- Tema: Dark Gaming
+- Warna utama: Hitam dan Ungu
+- Font: Poppins
+- Layout: Responsive
+- Framework: HTML, CSS, Bootstrap
