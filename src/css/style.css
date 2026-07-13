@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+
+body{
+    background:#0f172a;
+    color:white;
+}
+
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:25px 80px;
+}
+
+
+.logo{
+    font-size:28px;
+    font-weight:bold;
+}
+
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:30px;
+}
+
+
+
+.hero{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:80px;
+}
+
+
+.hero-text{
+    width:50%;
+}
+
+
+.hero-text h1{
+    font-size:48px;
+}
+
+
+.hero-text p{
+    margin:20px 0;
+    color:#cbd5e1;
+}
+
+
+button{
+    background:#2563eb;
+    border:none;
+    color:white;
+    padding:15px 30px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+
+
+.games{
+    padding:50px 80px;
+}
+
+
+.game-card{
+    display:flex;
+    gap:25px;
+}
+
+
+.card{
+    background:#1e293b;
+    padding:40px;
+    border-radius:15px;
+    width:200px;
+}
