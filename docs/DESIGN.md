@@ -1,92 +1,36 @@
-# DESIGN DOCUMENT
+# Project WebTopup - Design Document
 
-## Project Information
+## Deskripsi
 
-**Nama Proyek**
-Project WebTopup
-
-**Jenis Aplikasi**
-Website Top Up Game
-
-**Frontend Developer**
-Delya Melviani
+Project WebTopup merupakan website layanan top up game yang dirancang dengan antarmuka modern, sederhana, dan mudah digunakan. Desain difokuskan pada kemudahan navigasi, proses transaksi yang cepat, serta tampilan yang responsif.
 
 ---
 
-# Deskripsi
+## Mockup UI
 
-Project WebTopup merupakan aplikasi berbasis website yang dirancang untuk memudahkan pengguna melakukan pembelian voucher atau top up game secara cepat, aman, dan mudah digunakan.
+Mockup UI dapat diakses melalui Figma:
 
-Website ini menyediakan tampilan yang sederhana sehingga pengguna dapat memilih game, menentukan nominal top up, melakukan pembayaran, serta melihat riwayat transaksi.
-
----
-
-# Target Pengguna
-
-- Gamer
-- Mahasiswa
-- Pelajar
-- Pengguna umum
+https://www.figma.com/design/5TYsDGw7UhOeRPhfnwvKat/Project-WebTopup---UI-Mockup?node-id=0-1&t=9zrawGHgJ29NJ2IA-1
 
 ---
 
-# Konsep Desain
+## Halaman yang Dirancang
 
-Konsep desain yang digunakan adalah **Modern Minimalist Gaming**.
+### 1. Landing Page
+- Navbar
+- Hero Section
+- Daftar Game
+- Promo
+- Footer
 
-Karakteristik desain:
+### 2. Login Page
+- Logo
+- Form Login
+- Remember Me
+- Login Button
 
-- Dominan warna biru dan putih
-- Icon sederhana
-- Layout bersih
-- Mudah digunakan
-- Responsive
-
----
-
-# Color Palette
-
-| Warna | Hex |
-|-------|------|
-| Primary | #2563EB |
-| Secondary | #3B82F6 |
-| Background | #F8FAFC |
-| Text | #1F2937 |
-| Success | #22C55E |
-
----
-
-# Typography
-
-Font yang digunakan:
-
-- Poppins
-- Inter
-
----
-
-# Halaman Aplikasi
-
-- Landing Page
-- Login
-- Register
-- Dashboard
-- Detail Top Up
+### 3. Dashboard
+- Sidebar
+- Ringkasan Saldo
 - Riwayat Transaksi
-- Profil
-
----
-
-# Mockup UI
-
-Mockup UI dapat dilihat pada:
-
-- docs/ui_mockup.png
-
-Apabila dilakukan pengembangan menggunakan Figma, tautan desain akan ditambahkan pada bagian ini.
-
----
-
-# Catatan
-
-Dokumen ini digunakan sebagai acuan pengembangan antarmuka (Frontend) selama proses pengembangan Project WebTopup.
+- Promo
