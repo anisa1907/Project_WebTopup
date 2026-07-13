@@ -1,0 +1,16 @@
+services:
+
+  frontend:
+    build: .
+    container_name: webtopup-frontend
+
+    ports:
+      - "8080:80"
+
+    volumes:
+      - ./assets:/usr/share/nginx/html/assets
+      - app_logs:/var/log/nginx
+
+
+volumes:
+  app_logs:
