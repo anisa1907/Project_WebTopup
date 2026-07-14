@@ -10,3 +10,13 @@ pembelian diamond untuk berbagai game populer dengan tampilan yang sederhana dan
 Project lead : Anisa Marsyahila
 Front end develop : Delya Melviani
 Backend : Anom Surya
+
+## Docker Images
+
+Backend Image
+
+ghcr.io/kelompok5/backend:v1.0.0
+
+Frontend Image
+
+ghcr.io/kelompok5/frontend:v1.0.0
