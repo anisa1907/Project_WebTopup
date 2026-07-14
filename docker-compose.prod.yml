@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+
+  backend:
+    image: ghcr.io/NAMA_ORGANISASI/backend:v1.0.0
+    restart: always
+
+  frontend:
+    image: ghcr.io/NAMA_ORGANISASI/frontend:v1.0.0
+    restart: always
