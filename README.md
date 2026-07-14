@@ -20,3 +20,31 @@ ghcr.io/kelompok5/backend:v1.0.0
 Frontend Image
 
 ghcr.io/kelompok5/frontend:v1.0.0
+
+## Cara Install
+
+1. Clone repository
+
+git clone https://github.com/anisa1907/Project_WebTopup
+
+2. Masuk ke folder project
+
+cd ProjectKelompok
+
+3. Jalankan Docker
+
+docker compose up -d
+
+## Cara Menjalankan
+
+Buka browser
+
+http://localhost:3000
+
+## API
+
+Link API atau dokumentasi API.
+
+## Dokumentasi
+
+Folder docs/
